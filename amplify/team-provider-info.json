@@ -10,6 +10,17 @@
       "StackName": "amplify-library-dev-8dbf0",
       "StackId": "arn:aws:cloudformation:ap-south-1:712360403325:stack/amplify-library-dev-8dbf0/c7d91940-32c3-11ef-88b7-0a10761bbaf3",
       "AmplifyAppId": "d33uh8yonaygyu"
+    },
+    "categories": {
+      "function": {
+        "library52c33aa3": {
+          "deploymentBucketName": "amplify-library-dev-8dbf0-deployment",
+          "s3Key": "amplify-builds/library52c33aa3-504b4d616d793362755a-build.zip"
+        }
+      },
+      "api": {
+        "libraryuserapi": {}
+      }
     }
   }
 }
